@@ -4,7 +4,7 @@ suramrit@buffalo.edu | [github.com/suramrit](http://github.com/suramrit) | [line
 
 Technologies
 ---------------
-* **Programming Languages**: Java, Python, Golang
+* **Programming Languages**: Java, Python, Golang, JavaScript
 * **Environments**: Unix
 * **Software Delivery**: Test Automation, Service Validation
 
@@ -13,15 +13,15 @@ EXPERIENCE
 
 **Engineer**, *AT&T.* May 2017 – Current
 
- - Client side development of communication chatbots Messaging as a platform.
- - Testing scalability and faul tolerance for mission critical networks
- - Network compatibility, active involvement architecture testing and validation.
+ - Client side development of communication chatbots for Messaging as a platform.
+ - Testing scalability and fault tolerance for mission critical networks
+ - Validating Systems network compatibility, active involvement in architecture for testing and validation.
  - Interface with Project Managers, stakeholders and QA for releases
- - Test Automation architecture design and implemntation for Networks
+ - Test Automation architecture design and implementation for Networks
 
 **Software Engineer**, *Aricent Technologies* Oct 14 – May 15
  
- - Software Engineer for development of innovative solutions for optimizing networks.
+ - Software Engineer for development of solutions for optimizing networks.
  - Design and technical implementations for the data work-flow and the extraction of domain specific features in large scale unstructured data. 
 
 TECHNICAL PROJECTS
