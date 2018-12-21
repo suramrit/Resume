@@ -41,7 +41,7 @@ TECHNICAL PROJECTS
 
  - Implemented Dynamo, a highly available Key-value storage that powers Amazon e-commerce platform.Implemented it to be a fault-tolerant and resilient data storage solution for android devices. 
  - Successfully managed to program a solution that had
- - 1) Partitioning, 2) Replication, and 3) Failure handling.
+ 1) Partitioning, 2) Replication, and 3) Failure handling.
 
 **Ensemble Machine Learning and its performance evaluation for genomic data**
 
